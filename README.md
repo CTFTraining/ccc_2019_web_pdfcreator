@@ -19,7 +19,7 @@
 ## 相关说明
 
 - flag保存在`files/flag.php`，形如`$flag="flag{test_flag}";`，位于Docker环境下的`/var/www/site/`（做题时不知道该路径）。
-- 发放题目时需要给出[code.tar](https://github.com/Tiaonmmn/)。
+- 发放题目时需要给出[code.tar](https://github.com/Tiaonmmn/ccc_2019_web_pdfcreator/raw/master/files/src/code.tar)。
 - 原题用的Apache2，这个用的Nginx，整体思路没变。
 
 
